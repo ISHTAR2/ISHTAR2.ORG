@@ -1,10 +1,17 @@
----
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+<!DOCTYPE html>
+<html lang="en">
 
----
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Clock</title>
+    <link rel="stylesheet" href="clock2.css">
+</head>
 
+<body>
+    <div id="clock">8:10:45</div>
 
+    <script src="clock2.js"></script>
+</body>
+
+</html>
